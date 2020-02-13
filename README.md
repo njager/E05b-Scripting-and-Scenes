@@ -2,6 +2,9 @@
 
 To continue to prepare you to turn in the space shooter project, we will experiment a little with more scripting, some procedural generation, and switching scenes in GDScript.
 
+Completed the tasks of the assignment by adding Score and Lives labels, adding an end game screen, and modifying scripts as necessary.
+
+
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
 
  * Open Godot. In the project viewer, select Import.
